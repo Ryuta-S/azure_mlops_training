@@ -1,0 +1,2 @@
+# azure_mlops_training
+azure machine learningスタジオを使ったmlopsの学習
