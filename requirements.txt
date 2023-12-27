@@ -1,0 +1,9 @@
+# python3.9用
+azure-ai-ml==1.12.1
+azureml-fsspec==
+azure-identity==1.15.0
+notebook==7.0.6
+ipykernel==6.28.0
+python-dotenv==1.0.0
+
+pandas==2.1.4
